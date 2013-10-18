@@ -1,7 +1,7 @@
-###README for the HappyStates Twitter sentiment anlysis
+###README for the HappyStates Twitter sentiment analysis
 
-This repository contains a Twitter sentiment analysis. The main program that
-does the analysis is *happyStates.py*. It requires and input file
+This repository contains code for a Twitter sentiment analysis. The main program
+that does the analysis is *happyStates.py*. It requires an input file
 *twitter_output_small.txt* with data from the Twitter API. The program reads the
 file and determines the language and location of each tweet, and finds the name
 of the US state it was sent from. It then reads in a file with sentiment scores
